@@ -1,0 +1,66 @@
+{
+    "users": {
+        "john.doe@example.com": {
+            "user_email": "john.doe@example.com",
+            "company_name": "Tech Innovations Inc",
+            "position": "Software Engineer",
+            "start_date": "2022-01-15"
+        },
+        "jane.smith@example.com": {
+            "user_email": "jane.smith@example.com",
+            "company_name": "Global Solutions Ltd",
+            "position": "Product Manager",
+            "start_date": "2021-06-01"
+        },
+        "bob.johnson@example.com": {
+            "user_email": "bob.johnson@example.com",
+            "company_name": "Digital Dynamics Corp",
+            "position": "Data Scientist",
+            "start_date": "2023-03-20"
+        },
+        "alice.williams@example.com": {
+            "user_email": "alice.williams@example.com",
+            "company_name": "Cloud Services International",
+            "position": "DevOps Engineer",
+            "start_date": "2020-09-10"
+        },
+        "charlie.brown@example.com": {
+            "user_email": "charlie.brown@example.com",
+            "company_name": "AI Research Labs",
+            "position": "Machine Learning Engineer",
+            "start_date": "2022-11-05"
+        }
+    },
+    "company_list": [
+        "Tech Innovations Inc",
+        "Global Solutions Ltd",
+        "Digital Dynamics Corp",
+        "Cloud Services International",
+        "AI Research Labs",
+        "Quantum Computing Systems",
+        "Blockchain Technologies Group",
+        "Cybersecurity Experts LLC",
+        "Mobile App Developers Inc",
+        "Enterprise Software Solutions",
+        "Data Analytics Partners",
+        "IoT Innovations Ltd",
+        "Virtual Reality Studios",
+        "E-commerce Platforms Inc",
+        "Financial Technology Corp",
+        "Healthcare IT Solutions",
+        "Educational Technology Group",
+        "Green Energy Systems",
+        "Automotive Tech Industries",
+        "Aerospace Engineering Corp",
+        "Biotechnology Research Inc",
+        "Pharmaceutical Innovations Ltd",
+        "Telecommunications Network Inc",
+        "Media & Entertainment Group",
+        "Gaming Studios International",
+        "Social Media Platforms LLC",
+        "Cloud Infrastructure Services",
+        "Machine Learning Solutions",
+        "Robotics & Automation Inc",
+        "Smart Home Technologies"
+    ]
+}

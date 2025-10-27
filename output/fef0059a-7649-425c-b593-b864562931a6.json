@@ -1,0 +1,80 @@
+{
+  "session_id": "fef0059a-7649-425c-b593-b864562931a6",
+  "user_data": {
+    "name": "I am Lokesh Aravind",
+    "first_name": "I",
+    "years_of_experience": "I have been having totally 5.2 years of experience",
+    "date_of_birth": "28 12 1998",
+    "email": "logesh@askgalore.com",
+    "employment_record": null,
+    "company_matches": [
+      "IoT Innovations Ltd",
+      "Global Solutions Ltd"
+    ]
+  },
+  "state": "COMPLETED",
+  "verified": true,
+  "conversation_history": [
+    {
+      "role": "assistant",
+      "content": "Hello! Welcome to the Employment Verification System. Let's start by collecting some information. What is your full name?"
+    },
+    {
+      "role": "user",
+      "content": "I am Lokesh Aravind"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, I! How many years of experience do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I have been having totally 5.2 years of experience"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! What is your date of birth? Please say it in a format like day, month, year."
+    },
+    {
+      "role": "user",
+      "content": "28 12 1998"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I! Now, please provide your email address so I can check our records."
+    },
+    {
+      "role": "user",
+      "content": "logesh@askgalore.com"
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't find any employment records for logesh@askgalore.com. Could you please tell me your current company name?"
+    },
+    {
+      "role": "user",
+      "content": "Askgalore Pvt Ltd"
+    },
+    {
+      "role": "assistant",
+      "content": "I found some possible matches: 1: IoT Innovations Ltd, 2: Global Solutions Ltd. Please say the number of your company, or say your company name if it's not listed."
+    },
+    {
+      "role": "user",
+      "content": "No 1"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you! I've recorded your company as No 1. Your verification is complete, I!"
+    },
+    {
+      "role": "user",
+      "content": "thank you"
+    },
+    {
+      "role": "assistant",
+      "content": "You're so welcome, I! Thank you, and have a wonderful day ahead!"
+    }
+  ],
+  "timestamp": "2025-10-27T08:06:42.861111"
+}

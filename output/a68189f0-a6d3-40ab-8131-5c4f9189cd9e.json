@@ -1,0 +1,68 @@
+{
+  "session_id": "a68189f0-a6d3-40ab-8131-5c4f9189cd9e",
+  "user_data": {
+    "name": "hello welcome to the employment verification system",
+    "first_name": "hello",
+    "years_of_experience": "I have totally 5.2 years of experience",
+    "date_of_birth": "28 12 1998",
+    "email": "john doe",
+    "employment_record": null
+  },
+  "state": "COMPLETED",
+  "verified": true,
+  "conversation_history": [
+    {
+      "role": "assistant",
+      "content": "Hello! Welcome to the Employment Verification System. Let's start by collecting some information. What is your full name?"
+    },
+    {
+      "role": "user",
+      "content": "hello welcome to the employment verification system"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, hello! How many years of experience do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I have totally 5.2 years of experience"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! What is your date of birth? Please say it in a format like day, month, year."
+    },
+    {
+      "role": "user",
+      "content": "28 12 1998"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, hello! Now, please provide your email address so I can check our records."
+    },
+    {
+      "role": "user",
+      "content": "John Doe"
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't find any employment records for john doe. Could you please tell me your current company name?"
+    },
+    {
+      "role": "user",
+      "content": "current company name is Oscar or Digital Private Limited"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you! I've recorded your company as current company name is Oscar or Digital Private Limited. Your verification is complete, hello!"
+    },
+    {
+      "role": "user",
+      "content": "thank you"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome, John! Thanks for your time, and have a wonderful day!"
+    }
+  ],
+  "timestamp": "2025-10-26T20:00:14.085824"
+}

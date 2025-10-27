@@ -1,0 +1,68 @@
+{
+  "session_id": "06787a8b-e833-40ed-8090-7f71403a2b18",
+  "user_data": {
+    "name": "my full name is Lokesh Shravan",
+    "first_name": "my",
+    "years_of_experience": "I've been having totally 5.2 years of experience",
+    "date_of_birth": "0710 20001",
+    "email": "location as cloud.com",
+    "employment_record": null
+  },
+  "state": "COMPLETED",
+  "verified": true,
+  "conversation_history": [
+    {
+      "role": "assistant",
+      "content": "Hello! Welcome to the Employment Verification System. Let's start by collecting some information. What is your full name?"
+    },
+    {
+      "role": "user",
+      "content": "my full name is Lokesh Shravan"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, my! How many years of experience do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I've been having totally 5.2 years of experience"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! What is your date of birth? Please say it in a format like day, month, year."
+    },
+    {
+      "role": "user",
+      "content": "0710 20001"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, my! Now, please provide your email address so I can check our records."
+    },
+    {
+      "role": "user",
+      "content": "location as cloud.com"
+    },
+    {
+      "role": "assistant",
+      "content": "I couldn't find any employment records for location as cloud.com. Could you please tell me your current company name?"
+    },
+    {
+      "role": "user",
+      "content": "aajkal com"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you! I've recorded your company as aajkal com. Your verification is complete, my!"
+    },
+    {
+      "role": "user",
+      "content": "thanks"
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome, Lokesh! Thanks for your time — have a great day!"
+    }
+  ],
+  "timestamp": "2025-10-26T21:06:08.315246"
+}

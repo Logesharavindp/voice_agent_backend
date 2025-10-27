@@ -1,0 +1,81 @@
+{
+  "session_id": "eb7d0882-2702-4788-be20-609abf85250a",
+  "user_data": {
+    "name": "my full name is John Doe",
+    "first_name": "my",
+    "years_of_experience": "I have totally 5.2 years of experience",
+    "date_of_birth": "28 12 1999",
+    "email": "john.doe@example.com",
+    "employment_record": {
+      "user_email": "john.doe@example.com",
+      "company_name": "Tech Innovations Inc",
+      "position": "Software Engineer",
+      "start_date": "2022-01-15"
+    }
+  },
+  "state": "COMPLETED",
+  "verified": true,
+  "conversation_history": [
+    {
+      "role": "assistant",
+      "content": "Hello! Welcome to the Employment Verification System. Let's start by collecting some information. What is your full name?"
+    },
+    {
+      "role": "user",
+      "content": "my full name is John Doe"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, my! How many years of experience do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I have totally 5.2 years of experience"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! What is your date of birth? Please say it in a format like day, month, year."
+    },
+    {
+      "role": "user",
+      "content": "28 12 1999"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, my! Now, please provide your email address so I can check our records."
+    },
+    {
+      "role": "user",
+      "content": "john.doe@example.com"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi my, it's great to talk with you! Our records show you work at Tech Innovations Inc. Is that still correct?"
+    },
+    {
+      "role": "user",
+      "content": "no"
+    },
+    {
+      "role": "assistant",
+      "content": "No worries, my! Could you please tell me your current company name?"
+    },
+    {
+      "role": "user",
+      "content": "current company is Oscar or Digital Private Limited"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you! I've recorded your company as current company is Oscar or Digital Private Limited. Your verification is complete, my!"
+    },
+    {
+      "role": "user",
+      "content": "thank you"
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome, John! Thank you for your time, and have a fantastic day!"
+    }
+  ],
+  "timestamp": "2025-10-26T20:53:59.661843"
+}
